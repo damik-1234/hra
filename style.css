@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: rgb(230, 226, 203);
+}
+
+p{color: rgb(33, 2, 9);}
+h1{color: rgb(38, 2, 36);}
+a{
+    color: rgb(51, 155, 25);
+    text-decoration: line-through;
+
+}
+img{
+    border-radius: 10px;
+}
