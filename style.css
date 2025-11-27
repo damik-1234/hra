@@ -14,12 +14,20 @@ img{
     background-color: brown;
     color: beige;
     border: 10px black;
-    padding: 10px 20px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 5px 5px 15px brown;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .button:hover {
-  background-color: rgb(80, 226, 43);
+  background-color: rgb(219, 74, 74);
     color: beige;
     border: 1px black;
-    padding: 10px 20px;
+    padding: 7px 14px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 5px 5px 15px rgb(165, 48, 48);
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
 }
