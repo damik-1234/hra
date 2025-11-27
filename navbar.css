@@ -1,5 +1,9 @@
 body{text-align: top;
+<<<<<<< HEAD
  }
+=======
+}
+>>>>>>> 1865bc743271d0e3f9a9382780be35999577bc58
 .navbar {
     display: flex;
     justify-content: space-between;
